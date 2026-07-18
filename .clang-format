@@ -1,0 +1,10 @@
+---
+# We'll use defaults from the LLVM style, but with 4 columns indentation.
+BasedOnStyle: LLVM
+AlignAfterOpenBracket: true
+AllowShortFunctionsOnASingleLine: None
+BinPackArguments: false
+BinPackParameters: false
+IndentWidth: 4
+PackConstructorInitializers: Never
+---
